@@ -56,7 +56,7 @@ console.log('In the Bag of Holding has:' + amountOfMoneyInBagOfHolding);
 
 console.log('After I purchase a health potion my lootbag will have:' + newAmtOfMoneyLootBagAfterHealth);
 console.log('After I purchase a mana potion my lootbag will have:' + newAmtOfMoneyLootBagAfterMana);
-console.log('After I purchase a mana potion and mana potion my lootbag will have:' + newAmtOfMoneyLootBagAfterManaHealth);
+console.log('After I purchase a mana potion and health potion my lootbag will have:' + newAmtOfMoneyLootBagAfterManaHealth);
 
 console.log('If I use the bag of holdings funds to purchase a health potion I will still have:' + newAmtOfMoneyBagOfHoldingAfterHealth);
 console.log('If I use the bag of holdings funds to purchase a mana potion I will still have:' + newAmtOfMoneyBagOfHoldingAfterMana);
